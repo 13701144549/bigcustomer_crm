@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/apollo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apollo/bin/qfcommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_api/bin/qfcommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_api/org_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project/org_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project/org_api/bin/qfcommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qfcommon" vcs="Git" />
+  </component>
+</project>
